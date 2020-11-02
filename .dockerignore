@@ -1,0 +1,5 @@
+__pycache
+.pytest_cache
+.mypy_cache
+README.md
+.gitignore
