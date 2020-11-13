@@ -4,4 +4,4 @@
 
 nvm use default
 
-/software/ide/scripts/code.sh
+/software/ide/scripts/code.sh /src
